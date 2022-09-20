@@ -1,0 +1,120 @@
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+Unauthorized: /store/collections/
+Forbidden: /store/collections/
+Bad Request: /store/collections/
+2022-09-20 09:14:39,823 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-20 09:14:39,864 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-20 09:14:39,911 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 00:23:32,093 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:23:32,333 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-09-21 00:24:15,388 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-21 00:24:15,402 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-21 00:24:15,416 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 00:35:23,154 (INFO) - django.utils.autoreload - E:\2. programming\4. Django\3. projects\Ecommerse Backend\storefront\settings\dev.py changed, reloading.
+2022-09-21 00:55:43,026 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-21 00:55:43,070 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-21 00:55:43,078 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 00:56:05,249 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 00:56:05,705 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-09-21 00:56:23,058 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-21 00:56:23,071 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-21 00:56:23,082 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 01:01:12,086 (INFO) - django.utils.autoreload - E:\2. programming\4. Django\3. projects\Ecommerse Backend\storefront\settings\common.py changed, reloading.
+2022-09-21 01:01:14,560 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:01:14,749 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-09-21 01:01:29,236 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-21 01:01:29,244 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-21 01:01:29,259 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 01:02:28,879 (INFO) - django.utils.autoreload - E:\2. programming\4. Django\3. projects\Ecommerse Backend\storefront\settings\common.py changed, reloading.
+2022-09-21 01:02:31,313 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:02:31,506 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-09-21 01:02:43,905 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-09-21 01:03:15,002 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-09-21 01:03:27,493 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-21 01:03:27,503 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-21 01:03:27,514 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 01:05:19,078 (INFO) - django.utils.autoreload - E:\2. programming\4. Django\3. projects\Ecommerse Backend\env\Lib\site-packages\django\utils\timezone.py changed, reloading.
+2022-09-21 01:05:21,971 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:05:22,148 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-09-21 01:05:46,708 (INFO) - django.utils.autoreload - E:\2. programming\4. Django\3. projects\Ecommerse Backend\env\Lib\site-packages\django\utils\timezone.py changed, reloading.
+2022-09-21 01:05:49,407 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:05:49,602 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-09-21 01:07:18,658 (INFO) - django.utils.autoreload - E:\2. programming\4. Django\3. projects\Ecommerse Backend\env\Lib\site-packages\django\utils\timezone.py changed, reloading.
+2022-09-21 01:07:21,069 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:07:54,064 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-21 01:07:54,072 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-21 01:07:54,087 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 01:21:15,676 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-21 01:21:15,694 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-21 01:21:15,706 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 01:21:49,624 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-21 01:21:49,677 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-21 01:21:49,730 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 01:22:02,974 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:22:03,158 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-09-21 01:23:11,908 (INFO) - django.utils.autoreload - E:\2. programming\4. Django\3. projects\Ecommerse Backend\storefront\settings\common.py changed, reloading.
+2022-09-21 01:23:14,457 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:23:14,640 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-09-21 01:23:30,390 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-21 01:23:30,446 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-21 01:23:30,508 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 01:23:48,350 (INFO) - django.utils.autoreload - E:\2. programming\4. Django\3. projects\Ecommerse Backend\storefront\settings\common.py changed, reloading.
+2022-09-21 01:24:06,273 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-21 01:24:06,323 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-21 01:24:06,377 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 01:24:32,441 (WARNING) - django.request - Unauthorized: /store/collections/
+2022-09-21 01:24:32,493 (WARNING) - django.request - Forbidden: /store/collections/
+2022-09-21 01:24:32,546 (WARNING) - django.request - Bad Request: /store/collections/
+2022-09-21 01:33:51,478 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2022-09-21 01:33:51,674 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2022-09-21 01:33:58,766 (WARNING) - django.request - Not Found: /favicon.ico
+2022-09-21 01:34:11,872 (WARNING) - django.request - Unauthorized: /store/orders/
